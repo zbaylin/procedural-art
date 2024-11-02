@@ -1,0 +1,3 @@
+[submodule "vendored/skia"]
+	path = vendored/skia
+	url = https://skia.googlesource.com/skia
